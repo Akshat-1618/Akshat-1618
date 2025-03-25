@@ -10,7 +10,7 @@
 - Passionate about building web applications and exploring new technologies.
 - Qualified in the **Smart India Hackathon (SIH) Internal Round**.
 - Worked on multiple projects, including **hospital management systems and travel websites**.
-- When I'm not coding, you'll find me indulging in **sports whether it's a competitive game or just for fun!**
+- Outside of coding, I love engaging in **sports—whether it's hitting the field for an intense match or unwinding with an online game!**
 
 ### 📫 Connect With Me
 - **GitHub:** [Akshat-1618](https://github.com/Akshat-1618)
