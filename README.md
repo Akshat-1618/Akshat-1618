@@ -13,7 +13,6 @@
 - Outside of coding, I love engaging in **sports—whether it's hitting the field for an intense match or unwinding with an online game!**
 
 ### 📫 Connect With Me
-- **GitHub:** [Akshat-1618](https://github.com/Akshat-1618)
 - **LinkedIn:** [Akshat Saxena](https://www.linkedin.com/in/akshat-saxena-16ba90284/)
 
 ### ⚡ GitHub Stats
